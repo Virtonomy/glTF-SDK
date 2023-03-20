@@ -8,6 +8,7 @@
 #include <GLTFSDK/BufferBuilder.h>
 
 #include <cassert>
+#include <limits>
 #include <numeric>
 
 using namespace Microsoft::glTF;

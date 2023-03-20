@@ -5,6 +5,7 @@
 
 #include <GLTFSDK/Document.h>
 
+#include <limits>
 #include <queue>
 #include <stack>
 

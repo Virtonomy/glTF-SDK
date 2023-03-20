@@ -5,6 +5,8 @@
 
 #include <GLTFSDK/PBRUtils.h>
 
+#include <limits>
+
 using namespace glTF::UnitTest;
 
 namespace

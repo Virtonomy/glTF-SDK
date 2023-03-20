@@ -5,6 +5,7 @@
 
 #include <GLTFSDK/Exceptions.h>
 
+#include <limits>
 #include <string>
 #include <vector>
 #include <cmath>

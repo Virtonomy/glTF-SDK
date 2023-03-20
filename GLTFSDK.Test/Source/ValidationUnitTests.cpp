@@ -9,6 +9,7 @@
 #include "TestResources.h"
 #include "TestUtils.h"
 
+#include <limits>
 #include <cmath>
 
 using namespace glTF::UnitTest;
